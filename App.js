@@ -145,7 +145,7 @@ function App() {
           </div>
           <div className="footer">
             <p>
-              <a href="https://www.github.com/mhmtclk1705/" target="_blank" rel="norefferer">
+              <a href="https://www.github.com/mhmtclk1705/" target="_blank" rel="noreferrer">
                 <span>{"<mhmtclk/>"}</span>
               </a>
               <img src={designSvg} />
